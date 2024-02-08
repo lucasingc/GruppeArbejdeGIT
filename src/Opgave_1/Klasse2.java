@@ -1,4 +1,4 @@
-package Opgave1;
+package Opgave_1;
 
 public class Klasse2 {
 
