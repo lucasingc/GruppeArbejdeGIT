@@ -15,4 +15,5 @@ public class Parkeringhus {
     public void setAdresse(String adresse) {
         this.adresse = adresse;
     }
+
 }
