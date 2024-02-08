@@ -2,9 +2,8 @@ package Opgave_1;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Halløj");
-        System.out.println("Jeg skal se True Detective i weekenden O_O ");
-        System.out.println("Booster Twisted Ice == win");
-        System.out.println("sæson 1 er den bedste af True detective");
+
+        System.out.println("Dette er en branch oprettet af Christian");
+
     }
 }
